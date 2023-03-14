@@ -1,7 +1,4 @@
-l1 = [1, 5, 7, 4]
-print(l1[0])
-print(l1[1])
-print(l1[2])
-print(l1[3])
-print(l1[0])
-print(l1[2])
+t = ("a", "b", "c", "d", "e", "f", "g")
+print(t[1])
+print(t[2:4])
+print(len(t))
